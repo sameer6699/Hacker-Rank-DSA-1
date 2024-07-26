@@ -43,4 +43,4 @@ The second line contains  space-separated integers describing the respective val
 </pre>
 <p> <strong> Explanation 0 </strong></p>
 <p> The diagram below depicts the number of times Maria broke her best and worst records throughout the season: </p>
-<p></p>
+<p>![image alt](https://github.com/sameer6699/Hacker-Rank-DSA-1/blob/4435f1543dd8125a7257639b8bb71cad5863973c/1.jpg)</p>
