@@ -44,3 +44,14 @@ The second line contains  space-separated integers describing the respective val
 <p> <strong> Explanation 0 </strong></p>
 <p> The diagram below depicts the number of times Maria broke her best and worst records throughout the season: </p>
 ![image alt](https://github.com/sameer6699/Hacker-Rank-DSA-1/blob/4435f1543dd8125a7257639b8bb71cad5863973c/1.jpg)
+<p> She broke her best record twice (after games 2 and 7) and her worst record four times (after games 1, 4, 6, and 8), so we printed 2 4 as our answer. Note that she did not break her record for best score during game 3, as her score during that game was not strictly greater than her best record at the time.</p>
+
+<p><strong class="example">Sample Input 1:</strong></p>
+<pre>
+10
+3 4 21 36 10 28 35 5 24 42
+</pre>
+<p><strong class="example">Sample Output 1:</strong></p>
+<pre>
+40
+</pre>
